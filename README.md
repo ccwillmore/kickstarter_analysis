@@ -25,8 +25,11 @@ In the US, from 2009 to 2017, there were 912 theater campaigns launched.  Of tho
   
 Of the theater campaigns, 671 were to fund plays.  Of those, 412 campaigns met their goals, 250 failed.  
 ![](Subcategory_outcomes_plays_only.png)  
-Statistics for Kickstarger campaigns to fund plays in the US show the mean for both successful and failed campaigns being higher than the upper quartile.  This suggests that the means are influenced by outliers.  
-![](US_Kickstart_Campaigns_plays_statistics.png)  
+  
+Statistics for Kickstarger campaigns to fund plays in the US show the mean for both successful and failed campaigns being higher than the upper quartile.  
+This suggests that the means are influenced by outliers.  
+  
+![text](US_Kickstart_Campaigns_plays_statistics.png)  
   
 A box and whiskers plot for goals and pledges illustrates the number of outliers.  
   

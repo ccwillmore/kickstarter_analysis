@@ -22,8 +22,10 @@ Data and spreadsheet summary:
 Results summary:  
 In the US, from 2009 to 2017, there were 912 theater campaigns launched.  Of those, 525 campaigns met their goals, 349 failed.  
 ![](Parent_category_outcomes_theater_only.png)  
+  
 Of the theater campaigns, 671 were to fund plays.  Of those, 412 campaigns met their goals, 250 failed.  
-![](parent_category_outcomes.png)
+![](Subcategory_outcomes_plays_only.png)  
+  
 
 
 

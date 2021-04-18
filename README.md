@@ -33,13 +33,13 @@ This suggests that the means are influenced by outliers.
   
 A box and whiskers plot for goals and pledges illustrates the number of outliers.  
   
-![test](US_plays_goal_pledged_box_plot_full_range.png)  
+![](US_plays_goal_pledged_box_plot_full_range.png)  
   
-All points above the upper whickers of the plot are outliers.  
-Changing the vertical scale to $0.00 - $20,000 makes the data easier to see.  
-![](US_plays_goal_pledged_box_plot_0_to_20000.png)  
+All points above the upper whickers of the plot are outliers.    
+There are plays with goals similar to the customer's goal ($12,000) but they are considered to be outliers.  
   
-There are   
+For a better chance of success the customer should decrease the goal of the campaign to closer to $5,000.00  
+
 
 
   

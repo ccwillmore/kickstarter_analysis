@@ -29,11 +29,18 @@ Of the theater campaigns, 671 were to fund plays.  Of those, 412 campaigns met t
 Statistics for Kickstarger campaigns to fund plays in the US show the mean for both successful and failed campaigns being higher than the upper quartile.  
 This suggests that the means are influenced by outliers.  
   
-![text](US_Kickstart_Campaigns_plays_statistics.png)  
+![text](US_Kickstart_Campaigns_plays_statistics.PNG)  
   
 A box and whiskers plot for goals and pledges illustrates the number of outliers.  
   
-![](US_plays_goal_pledged_box_plot_full_range.png]  
+![test](US_plays_goal_pledged_box_plot_full_range.png)  
+  
+All points above the upper whickers of the plot are outliers.  
+Changing the vertical scale to $0.00 - $20,000 makes the data easier to see.  
+![](US_plays_goal_pledged_box_plot_0_to_20000.png)  
+  
+There are   
+
 
   
 

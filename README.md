@@ -6,7 +6,7 @@ The goal of the analysis is to
 3.  Help the client learn more about funding for a set of 5 plays she saw at an Edinburgh festival.  
 
 Data and spreadsheet summary:  
-- [click here to open the analysis spreadsheet](data-1-1-3-StarterBook_analysis.xlsx)
+- [Click here to open the analysis spreadsheet](data-1-1-3-StarterBook_analysis.xlsx)
 - The dataset contains data for 4,114 Kickstarter campaigns launched from 2009 and 2017.  
 - The initial data are in columns A through N of the "Kickstarter" sheet of the spreadsheet.  
 - The outcomes of the campaigns (column F) are conditionally formatted (green - successful, failed - red, yellow - canceled, and blue - failed)  
@@ -21,9 +21,9 @@ Data and spreadsheet summary:
 
 Results summary:  
 In the US, from 2009 to 2017, there were 912 theater campaigns launched.  Of those, 525 campaigns met their goals, 349 failed.  
-![US Theater campaign outcome counts](C:\Users\User\Desktop\Analysis_Projects\Crowdfunding_Project\Parent_category_outcomes_theater_only.png)  
+![](Parent_category_outcomes_theater_only.png)  
 Of the theater campaigns, 671 were to fund plays.  Of those, 412 campaigns met their goals, 250 failed.  
-Link to plot
+![](parent_category_outcomes.png)
 
 
 

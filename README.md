@@ -46,11 +46,25 @@ Regardless of the campaign target amount the best months to launch a campaign to
   
  ## Musicals in Great Britain  
    
- There 26 Kickstarter campaigns to fnd musicals in Great Britain.  Of those, 10 were successful, 11 failed, and 5 were canceled.  
+The client is interested in learning about campaigns to fund musicals in Great Britain.  She estimates that a future production would require 4,000 pound sterling to put on.  
+There were 26 Kickstarter campaigns to fund musicals in Great Britain.  Of those, 10 were successful, 11 failed, and 5 were canceled.  
    
- 
+ ![](Subcategory_outcomes_musicals_in_GB.png)  
 
-
-
+A box and whisker plot of The statistics suggest that the data have a positive skew from campaigns with high goals.  
+  
+![](Great_Britain_musicals_goal_pledged_box_plot.png)  
+  
+![](GB_Kickstart_Campaigns_musicals_statistics.PNG)  
+  
+Note that the funding received for musicals in Great Britain are lower that the client's proposed goal.  
+Decreasing the goal to under 2,000 poounds sterling would help insure a successful campaign.  
+  
+##Edinburgh festival plays  
+  
+The client requested information on kickstarter campaigns for 5 plays she saw at an Edinburgh festival.  The data are summarized below.
+  
+![](Edinmurgh_research.PNG)  
+  
 
 

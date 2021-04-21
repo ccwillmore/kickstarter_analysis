@@ -1,11 +1,11 @@
 # An Analysis of Kickstarter Campaign Data
 
-The goal of the analysis is to
+## The goal of the analysis  
 1.  Help the client plan a successful Kickstarter campaign to fund a theater production. 
 2.  Help the client learn about Kickstarter campaigns to fund musicals in Great Britain
 3.  Help the client learn more about funding for a set of 5 plays she saw at an Edinburgh festival.  
 
-Data and spreadsheet summary:  
+## Data and spreadsheet summary  
 - [Click here to open the analysis spreadsheet](data-1-1-3-StarterBook_analysis.xlsx)
 - The dataset contains data for 4,114 Kickstarter campaigns launched from 2009 and 2017.  
 - The initial data are in columns A through N of the "Kickstarter" sheet of the spreadsheet.  
@@ -19,7 +19,7 @@ Data and spreadsheet summary:
 - The "Kickstarter_plays_statistics_US" contains central tendency and spread calculations for both failed and successful US campaigns to fund plays  
 - The "Edinburgh_research" sheet contains data for 5 plays subsetted from the "Kickstarter" sheet.  
 
-Results summary:  
+## Results summary:  
 In the US, from 2009 to 2017, there were 912 theater campaigns launched.  Of those, 525 campaigns met their goals, 349 failed.  
 ![](Parent_category_outcomes_theater_only.png)  
   
@@ -39,10 +39,18 @@ All points above the upper whickers of the plot are outliers.
 There are plays with goals similar to the customer's goal ($12,000) but they are considered to be outliers.  
   
 For a better chance of success the customer should decrease the goal of the campaign to closer to $5,000.00  
-
-
-
   
+Regardless of the campaign target amount the best months to launch a campaign to fund a play in the US are May, June, July, and august.  
+  
+![](Outcomes_based_on_launch_date_plays_only.png)  
+  
+ ## Musicals in Great Britain  
+   
+ There 26 Kickstarter campaigns to fnd musicals in Great Britain.  Of those, 10 were successful, 11 failed, and 5 were canceled.  
+   
+ 
+
+
 
 
 

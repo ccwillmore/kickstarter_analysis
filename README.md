@@ -14,6 +14,7 @@
 - Columns O through U are calculated from the initial data.  
 - The "category_statistics", subcategory_statistics", and "outcomes_based_on_Launch_date" sheets are pivot tables / charts  
 - The "Great_Britain_musicals_box_plot" sheet displays data pulled from the "Kickstarter" sheet and depends on the filtering on "Kickstarter" sheet.  
+- The "US Plays box plot" sheet is tied to the "Kickstarter" sheet and depends on the filtering of the Kickstarter sheet.
 - The "failed_US_Kickstart_plays" sheet is data subsetted from the "Kickstarter" sheet and used for statistical analysis.  
 - The "Successful_US_Kickstart_plays" sheet is data subsetted from the "Kickstarter" sheet and used for statistical analysis.  
 - The "Kickstarter_plays_statistics_US" contains central tendency and spread calculations for both failed and successful US campaigns to fund plays  

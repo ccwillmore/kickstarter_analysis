@@ -2,21 +2,17 @@
 
 ## Overview of Project  
 ### Purpose of the analysis  
-The purpose is to use data on Kickstarter funding campaigns, launched from 2009 to 2017, to provide insights into the client's campaign to fund the play "Fever."  The client wants to understand how the launch date for theater funding campaigns relates to the success rate and the relationship between the funding goal and the success of the campaign.  
-  
-
-
-## Analysis and Challenges
-The initial data set has 4,414 campaigns.  1,393 of the campaigns were for theater productions.   
+The purpose is to use data on Kickstarter funding campaigns, launched from 2009 to 2017, to provide insights into the client's campaign to fund the play "Fever."  The client wants to understand how the launch date for theater funding campaigns relates to the success rate and the relationship between the funding goal and the success of the campaign. 
+## Analysis and Challenges  
+The initial data set has 4,414 campaigns.  1,393 of the campaigns were for theater productions.  
 ![](Parent_category_outcomes_no_filter.png)  
   
 ![](Parent_category_outcomes_theater.png)  
   
-The basic statistics of the theater funding campaigns indicate that the data are right skewed -mean significantly higher than median- and contain possible outliers- mean + standard deviation > upper quartile of the data.  
 ![](Subcategory_outcomes_Plays.png)  
 ### Analysis steps  
 1. Extract the campaign launch year from the campaign launch date using the YEAR function in Excel.  
-- [](Year_from_date.PNG)  
+- =YEAR()
 - The campaign launch date was calculated from the raw UNIX date stamp.  
 - ![](Convert_UNIX_date_stamp_to_readable_date.PNG)  
 2. Create a line graph of the Theater campaign outcomes vs month.  

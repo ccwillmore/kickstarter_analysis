@@ -30,7 +30,7 @@ There are numerous graphs and tables that I could make to address this project. 
   
 ### Analysis of Outcomes Based on Launch Date  
   
-[](/resources/Theater_Outcome_vs_Launch.png)  
+![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/82217275/115895653-49437b00-a420-11eb-8202-24dbe289a0be.png)  
   
 The line graph is a pivot chart created from the pivot table below.  
 
@@ -38,7 +38,7 @@ The line graph is a pivot chart created from the pivot table below.
 
 ### Analysis of Outcomes Based on Goals  
   
-[](/resources/Outcomes_vs_Goals.png)  
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82217275/115895758-62e4c280-a420-11eb-8d17-17fa33110342.png)  
   
 The line graph data is in this data table  
   
@@ -72,3 +72,4 @@ The most difficult aspect of the Excel analysis was formatting the Theater outco
   
 1. Line graph of the percent of goal funded vs the length of the campaign.  
 2. Theater campaign outcomes based on launch year to understand how changes in the economy over time have impacted both the number of campaigns initiated and fully funded.  
+

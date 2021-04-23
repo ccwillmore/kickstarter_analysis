@@ -30,15 +30,15 @@ There are numerous graphs and tables that I could make to address this project. 
   
 ### Analysis of Outcomes Based on Launch Date  
   
-![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/82217275/115895653-49437b00-a420-11eb-8202-24dbe289a0be.png)  
+![](Theater_Outcome_vs_Launch.png)  
   
 The line graph is a pivot chart created from the pivot table below.  
 
-[](Outcomes_based_on_date_pivot_table.PNG)  
+![](Outcomes_based_on_date_pivot_table.PNG)  
 
 ### Analysis of Outcomes Based on Goals  
   
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82217275/115895758-62e4c280-a420-11eb-8d17-17fa33110342.png)  
+![](Outcomes_vs_Goals.png)  
   
 The line graph data is in this data table  
   

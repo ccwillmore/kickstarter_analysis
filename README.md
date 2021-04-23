@@ -10,9 +10,10 @@ The initial data set has 4,414 campaigns.  1,393 of the campaigns were for theat
 ![](Parent_category_outcomes_theater.png)  
   
 ![](Subcategory_outcomes_Plays.png)  
+  
 ### Analysis steps  
 1. Extract the campaign launch year from the campaign launch date using the YEAR function in Excel.  
-- =YEAR()
+- =YEAR()  
 - The campaign launch date was calculated from the raw UNIX date stamp.  
 - ![](Convert_UNIX_date_stamp_to_readable_date.PNG)  
 2. Create a line graph of the Theater campaign outcomes vs month.  
@@ -65,7 +66,7 @@ The most difficult aspect of the Excel analysis was formatting the Theater outco
   
 - What are some limitations of this dataset?  
   
-1. In it's current form the data do not shed light on relationships between the kinds of plays and their success rate.  Extracting data from the blurbs could show that one type of play is more successful than another in being funded.  
+1. In its current form the data do not shed light on relationships between the kinds of plays and their success rate.  Extracting data from the blurbs could show that one type of play is more successful than another in being funded.  
 2. Havng spatial information could make the interpretations more meaningful.  As an example, do campaigns in big cities have better results than campaigns in rural areas?    
   
 - What are some other possible tables and/or graphs that we could create?  
